@@ -88,16 +88,11 @@ If you used either the Chicken Coop module, or any insights from our paper, plea
 
 ```
 @inproceedings{rachum2024dh,
-  title = {Emergent Dominance Hierarchies in Reinforcement Learning Agents},
-  author = {Rachum, Ram and Nakar, Yonatan and Tomlinson, Bill and Alon, Nitay and Mirsky, Reuth},
-  year = {2024},
-  isbn = {9798400704864},
-  publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
-  booktitle = {Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems},
-  pages = {2426–2428},
-  numpages = {3},
-  location = {Auckland, New Zealand},
-  series = {AAMAS '24}
+  title={Emergent Dominance Hierarchies in Reinforcement Learning Agents},
+  author={Rachum, Ram and Nakar, Yonatan and Tomlinson, Bill and Alon, Nitay and Mirsky, Reuth},
+  booktitle={International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems},
+  pages={41--56},
+  year={2024},
+  organization={Springer}
 }
 ```
-
